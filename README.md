@@ -15,7 +15,7 @@ A simple backend API built using Node.js and Express.
 - Get User By ID
 - Delete User
 - Input Validation
-- 
+  
 ## Technologies
 
 - Node.js
